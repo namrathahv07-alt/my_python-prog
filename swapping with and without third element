@@ -1,0 +1,28 @@
+without third element 
+a=10
+b=20
+print(a)
+print(b)
+a,b=b,a
+print(a)
+print(b)
+output is
+10
+20
+20
+10
+with third element
+a=10
+b=20
+print(a)
+print(b)
+c=a
+a=b
+b=c
+print(a)
+print(b)
+output is
+10
+20
+20
+10
