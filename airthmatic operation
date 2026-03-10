@@ -1,0 +1,19 @@
+a=10
+b=3
+print(a+b)
+print(a-b)
+print(a*b)
+print(a**b)
+print(a/b)
+print(a//b)
+print(a%b)
+output is
+13
+7
+30
+1000
+3.3333333333333335
+3
+1
+
+=== Code Execution Successful ===
