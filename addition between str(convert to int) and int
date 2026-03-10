@@ -1,0 +1,5 @@
+s="100"
+i=20
+print(int(s)+i)
+output is
+120
