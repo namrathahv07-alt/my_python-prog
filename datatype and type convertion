@@ -1,0 +1,23 @@
+name="namratha"
+age=19
+is_student=True
+wieght=42.5
+print(name)
+print(age)
+print(is_student)
+print(wieght)
+print(type(is_student))
+age=float(age)
+print(age)
+is_student="yes"
+print(type(is_student))
+  output is 
+  namratha
+19
+True
+42.5
+<class 'bool'>
+19.0
+<class 'str'>
+
+=== Code Execution Successful ===
