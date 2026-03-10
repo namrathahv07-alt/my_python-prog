@@ -1,0 +1,5 @@
+age=input("age:")
+print(int(age)+1)
+output is
+age:21
+22
