@@ -1,0 +1,18 @@
+boy_name=input("boy_name:  ")
+girl_name=input("girl_name:  ")
+print("loves")
+boy_age=int(input("boy_age:  "))
+girl_age=int(input("girl_agr:  "))
+age_diff=abs(boy_age-girl_age)
+print(age_diff)
+print(boy_name+  "   loves  "+  girl_name+  ".  age_diff is  "+ str(age_diff))
+output is
+boy_name:  raam
+girl_name:  seetha
+loves
+boy_age:  20
+girl_agr:  21
+1
+raam   loves  seetha.  age_diff is  1
+
+=== Code Execution Successful ===
