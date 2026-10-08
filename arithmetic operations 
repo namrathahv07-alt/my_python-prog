@@ -1,0 +1,17 @@
+a=3
+b=2
+print (a+b)
+print (a-b)
+print (a*b)
+print (a/b)
+print (a//b)
+print (a%b)
+print (a**b)
+output:
+5
+1
+6
+1.5
+1
+1
+9
