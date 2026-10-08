@@ -1,0 +1,11 @@
+sentence=input ("enter a sentence")
+print ("upper case:", sentence.upper())
+print ("lower case:", sentence.lower())
+print("space replace", sentence.replace(" ","_"))
+print ("white space removed", sentence.strip())
+output:
+enter a sentenceRashmi is good girl 
+upper case: RASHMI IS GOOD GIRL 
+lower case: rashmi is good girl 
+space replace Rashmi_is_good_girl_
+white space removed Rashmi is good girl
