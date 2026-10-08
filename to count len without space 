@@ -1,0 +1,6 @@
+string=input ("enter a string" )
+count =len(string.replace(" ",""))
+print (count)
+output:
+enter a stringhello World 
+10
